@@ -33,7 +33,7 @@ E-commerce full stack com .NET Core + Angular
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelabadermann)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:pamelabadermann@gmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:badermann.pamela@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/PamelaMBadermann)  
 
 ---
