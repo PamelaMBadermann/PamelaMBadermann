@@ -22,7 +22,7 @@
 
 ### 🌟 Projetos em Destaque
 
-#### 🛒 [Skynet](https://github.com/PamelaMBadermann/skynet-ecommerce-main)
+#### 🛒 [Skynet](https://github.com/PamelaMBadermann/skinet-ecommerce)
 E-commerce full stack com .NET Core + Angular  
 > 📦 API com ASP.NET Core, EF Core e SQL Server  
 > 🎨 Frontend em Angular 16 com Tailwind  
