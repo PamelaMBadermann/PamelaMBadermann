@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Pamela Badermann 😊
 
 🎯 Desenvolvedora Web Full Stack  
-💻 Foco em .NET Core, C#, Angular e SQL Server  
+💻 Foco em .NET Core, C#, Angular, SQL Server e PostgreSQL
 🎓 Estudante de Engenharia de Software (5º semestre)  
 🎶 Cantora nas horas vagas e mãe de um pequeno rockeiro 🤘
 
