@@ -22,7 +22,7 @@
 
 ### 🌟 Projetos em Destaque
 
-🍽️ [Good Host](https://github.com/PamelaMBadermann/good-host)
+#### 🍽️ [Good Host](https://github.com/PamelaMBadermann/good-host)
 Sistema visual para gerenciamento de mesas em restaurantes.
 
 > Organização por seções, divisões e linhas
