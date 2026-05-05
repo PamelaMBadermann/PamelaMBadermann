@@ -5,7 +5,7 @@
 🎓 Estudante de Engenharia de Software (7º semestre)
 
 💻 Foco em .NET Core, C#, Angular, SQL Server e PostgreSQL
-]
+
 🎶 Cantora nas horas vagas e mãe de um pequeno rockeiro 🤘
 
 ---
