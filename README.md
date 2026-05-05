@@ -28,17 +28,18 @@
 #### 🍽️ [Good Host](https://github.com/PamelaMBadermann/good-host)
 Sistema visual para gerenciamento de mesas em restaurantes.
 
-> Organização por seções, divisões e linhas
-> Drag and drop com Angular CDK
-> Persistência com localStorage
+> Organização por praças, e divisões de praças  
+> Angular 19  
+> Drag and drop com Angular CDK  
+> Persistência com localStorage  
 
 ---
 
 #### 🛒 [Skynet](https://github.com/PamelaMBadermann/skinet-ecommerce)
 E-commerce full stack com .NET Core + Angular  
 > 📦 API com ASP.NET Core, EF Core e SQL Server  
-> 🎨 Frontend em Angular 18
-> 🐳 Docker para ambiente local
+> 🎨 Frontend em Angular 18 
+> 🐳 Docker para ambiente local 
 
 ---
 
