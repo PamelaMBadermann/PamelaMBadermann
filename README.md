@@ -22,6 +22,15 @@
 
 ### 🌟 Projetos em Destaque
 
+🍽️ [Good Host](https://github.com/PamelaMBadermann/good-host)
+Sistema visual para gerenciamento de mesas em restaurantes.
+
+> Organização por seções, divisões e linhas
+> Drag and drop com Angular CDK
+> Persistência com localStorage
+
+---
+
 #### 🛒 [Skynet](https://github.com/PamelaMBadermann/skinet-ecommerce)
 E-commerce full stack com .NET Core + Angular  
 > 📦 API com ASP.NET Core, EF Core e SQL Server  
